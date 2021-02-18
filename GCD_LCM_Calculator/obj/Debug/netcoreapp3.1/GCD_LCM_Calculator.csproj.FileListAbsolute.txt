@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\netcoreapp3.1\GCD_LCM_Calculator.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\netcoreapp3.1\GCD_LCM_Calculator.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\netcoreapp3.1\GCD_LCM_Calculator.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\netcoreapp3.1\GCD_LCM_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\bin\Debug\netcoreapp3.1\GCD_LCM_Calculator.exe
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\bin\Debug\netcoreapp3.1\GCD_LCM_Calculator.deps.json
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\bin\Debug\netcoreapp3.1\GCD_LCM_Calculator.runtimeconfig.json
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\bin\Debug\netcoreapp3.1\GCD_LCM_Calculator.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\bin\Debug\netcoreapp3.1\GCD_LCM_Calculator.dll
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\bin\Debug\netcoreapp3.1\GCD_LCM_Calculator.pdb
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\netcoreapp3.1\GCD_LCM_Calculator.dll
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\netcoreapp3.1\GCD_LCM_Calculator.pdb
+C:\Users\Huy Le\source\repos\GCD_LCM_Calculator\GCD_LCM_Calculator\obj\Debug\netcoreapp3.1\GCD_LCM_Calculator.genruntimeconfig.cache
