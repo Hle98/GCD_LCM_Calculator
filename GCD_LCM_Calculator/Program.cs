@@ -37,7 +37,7 @@ namespace GCD_LCM_Calculator
                             num3Gcd = num1Gcd % num2Gcd;
                         }
                             num1Gcd = num2Gcd;
-                        while (a < listOfNumber.Count-1)
+                        if (a < listOfNumber.Count-1)
                         {
                             a++;
                             num2Gcd = listOfNumber[a];
