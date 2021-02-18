@@ -52,7 +52,7 @@ namespace GCD_LCM_Calculator
                         }
                         Lcm = (x1 * x2) / num2Lcm;
                         x1 = Lcm;
-                        while (c < listOfNumber.Count - 1)
+                        if (c < listOfNumber.Count - 1)
                         {
                             c++;
                             x1 = Lcm;
